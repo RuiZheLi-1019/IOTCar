@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: pierce-iotcar
-  host: http://pierce-iotcar.mybluemix.net/
+  host: pierce-iotcar
   disk_quota: 1024M
